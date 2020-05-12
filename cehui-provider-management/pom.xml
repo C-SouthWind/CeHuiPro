@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>system-provdier-5081</module>
+        <module>system-provdier-8081</module>
     </modules>
     <artifactId>cehui-provider-management</artifactId>
     <dependencies>
